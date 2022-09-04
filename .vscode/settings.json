@@ -2,6 +2,7 @@
   "files.associations": {
     "*.ejs": "html",
     "*html": "html",
-    "array": "cpp"
+    "array": "cpp",
+    "ostream": "cpp"
   }
 }
